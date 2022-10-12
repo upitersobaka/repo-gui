@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello
+=======
+file1
+>>>>>>> branch-1
