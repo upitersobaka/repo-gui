@@ -1,5 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello
 =======
 file1
 >>>>>>> branch-1
+=======
+<<<<<<< branch-1
+file1
+=======
+Hello
+>>>>>>> create new files
+>>>>>>> branch_2
